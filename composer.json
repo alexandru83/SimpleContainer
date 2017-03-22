@@ -1,0 +1,12 @@
+{
+    "name": "simple-container",
+    "version": "0.0.1",
+    "autoload": {
+        "psr-4": {
+            "Webcounted\\SimpleContainer\\": "src/"
+        }
+    },
+    "require": {
+        "container-interop/container-interop": "^1.2"
+    }
+}
